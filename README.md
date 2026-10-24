@@ -5,3 +5,7 @@
 pip install language_tool_python
 
 pip install pyqt5
+
+#iniciar apliacion
+
+python correctorsimple.py
